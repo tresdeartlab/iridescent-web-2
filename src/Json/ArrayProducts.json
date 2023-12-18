@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "nombre": "VELA HANDMADE M SALPIQUÉ MARRÓN LIMA PEONÍAS",
+      "descripcion": "Vela aromática vegetal en exclusiva cerámica de 9 cm de diámetro y 9 cm de alto. ",
+      "imagenes":   ["https://cdn.shopify.com/s/files/1/0732/7734/1971/files/HANDMADE_COLLECTION_SALPIQUE_6.jpg?v=1701116999",
+                    "https://thecandleshop.com.ar/cdn/shop/files/A61_VELAENVASODECERAMICACONTAPA_03e73e3c-53e8-4618-817c-d042148670ee.jpg?v=1697751439&width=990", 
+                    "https://thecandleshop.com.ar/cdn/shop/files/HANDMADECOLLECTIONSALPIQUE7_f36cdf2b-6b4f-43da-9038-85bd04d249fd.jpg?v=1701117872&width=990"],
+      "precio": 12.000,
+      "stock": 50,
+      "categoria": "Handmade"
+    },
+    
+    {
+      "id": 2,
+      "nombre": "VELA GREY",
+      "descripcion": "Vela vegetal en vaso de vidrio de 9 cm de diámetro y 10 cm de alto",
+      "imagenes":   ["https://cdn.shopify.com/s/files/1/0732/7734/1971/files/Grey_j_16bb848d-edb7-47e7-8b96-3f3275e4b4f0.jpg?v=1701118902",
+                    "https://thecandleshop.com.ar/cdn/shop/files/VelaGreyL_a_8f44e81f-f391-4125-aa91-59ebe09fd5c9.jpg?v=1699316087&width=990", 
+                    "https://thecandleshop.com.ar/cdn/shop/files/VelaGreyL_b_eca7d063-aa86-47b7-8f03-11294628fbe3.jpg?v=1699316087&width=990"],
+      "precio": 16.500,
+      "stock": 30,
+      "categoria": "Grey"
+    },
+
+    {
+      "id": 3,
+      "nombre": "VELA TIN BLACK",
+      "descripcion": "Vela vegetal en envase metálico esmaltado de 7,5cm de diámetro y 8 cm de alto.",
+      "imagenes":   ["https://thecandleshop.com.ar/cdn/shop/files/A55BV_VELAAROMATICATINBLACKVETIVER_a.jpg?v=1690206967&width=990",
+                    "https://thecandleshop.com.ar/cdn/shop/files/A55BV_VELAAROMATICATINBLACKVETIVER_b.jpg?v=1690206967&width=990"],
+      "precio": 8.800,
+      "stock": 20,
+      "categoria": "Tin"
+    },
+
+    {
+      "id": 4,
+      "nombre": "VELA QUEEN",
+      "descripcion": "Vela vegetal en vaso de vidrio con campana protectora de 9 cm de diámetro y 12 cm de alto",
+      "imagenes":   ["https://cdn.shopify.com/s/files/1/0732/7734/1971/files/Queen_d.jpg?v=1701121497",
+                    "https://thecandleshop.com.ar/cdn/shop/products/A24CV_20__20VELA_20AROMATICA_20QUEEN_20II_20CEDRO_20VERBENA_20_a.jpg?v=1686140644&width=990", 
+                    "https://thecandleshop.com.ar/cdn/shop/products/A24CV_20__20VELA_20AROMATICA_20QUEEN_20II_20CEDRO_20VERBENA_20_b.jpg?v=1686140644&width=990"],
+      "precio": 15.500,
+      "stock": 15,
+      "categoria": "Queen"
+    },
+
+    {
+      "id": 5,
+      "nombre": "VELA MAKE A WISH",
+      "descripcion": "Vela vegetal en vaso de vidrio de 8 cm de diámetro y 8 cm de alto.",
+      "imagenes":   ["https://cdn.shopify.com/s/files/1/0732/7734/1971/files/TCS_New_beginnings_Gold_Rose_C.jpg?v=1701115699",
+                    "https://thecandleshop.com.ar/cdn/shop/files/NV07RG_VELAMAKEAWISHROSEGOLD_a.jpg?v=1700688713&width=990", 
+                    "https://thecandleshop.com.ar/cdn/shop/files/TCS_Makeawish_GoldRoseB.jpg?v=1701115604&width=990"],
+      "precio": 7.900,
+      "stock": 25,
+      "categoria": "Wish"
+    },
+
+    {
+      "id": 6,
+      "nombre": "VELA MOONLIGHT",
+      "descripcion": "Vela aromática de cera vegetal en vaso de vidrio importado de 10,7 cm de diámetro y 7 cm de alto",
+      "imagenes":   ["https://cdn.shopify.com/s/files/1/0732/7734/1971/files/A23S__VELA_AROMATICA_MOOONLIGHT__c.jpg?v=1686838633",
+                    "https://thecandleshop.com.ar/cdn/shop/products/A23S__20VELA_20AROMATICA_20MOOONLIGHT_20_a.jpg?v=1686140628&width=990", 
+                    "https://thecandleshop.com.ar/cdn/shop/products/A23S__20VELA_20AROMATICA_20MOOONLIGHT_20_b.jpg?v=1686140628&width=990"],
+      "precio": 16.000,
+      "stock": 10,
+      "categoria": "Moonlight"
+    }
+  ]
+  

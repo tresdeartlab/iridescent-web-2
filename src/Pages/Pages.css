@@ -1,0 +1,20 @@
+
+.page-container {
+    padding-top: 80px;
+    align-items: center;
+    text-align: center;
+  }
+
+.tittle-page {
+  font-size: 1.5rem;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+h2 {
+  padding-top: 16px;
+}
+
+h3 {
+  padding-top: 16px;
+}

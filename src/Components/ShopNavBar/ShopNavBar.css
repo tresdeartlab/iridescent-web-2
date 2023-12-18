@@ -1,0 +1,38 @@
+
+
+.navbarshop {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbarshop-nav-links {
+    list-style: none;
+    align-items: center;
+    display: flex;
+  }
+  
+  .navbarshop-nav-links li {
+    display: flex;
+    margin-right: 20px;
+  }
+  
+  .navbarshop-nav-link {
+    display: flex;
+    text-decoration: none;
+    color: #1d1d1d;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .navbarshop-nav-link.active {
+    font-weight: bold;
+    color: #ff0080;
+  }
+  
+  .navbarshop-nav-link:hover {
+    color: #ff0080;
+  }
+  
